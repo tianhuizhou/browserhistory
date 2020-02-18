@@ -11,3 +11,30 @@ img{
   float: left;
   margin-right: 5px;
 }
+.left{
+  float: left;
+  width: 300px;
+  padding: 1em;
+}
+.right{
+  float: right;
+  width: 300px;
+  padding: 1em;
+}
+.center{
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 1em;
+}
+#menubar ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#menubar li{
+  display: inline;
+}
+#menubar a{
+  margin-right: 100px;
+  margin-left: 100px;
+}
